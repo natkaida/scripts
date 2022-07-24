@@ -1,8 +1,8 @@
 # Парсинг и скрапинг на Python
-### Python scripts and snippets
+## Python scripts and snippets
 
-## Скрапинг таблиц с множества страниц с XPath
-### Scraping tables from multiple pages using XPath
+### Скрапинг таблиц с множества страниц с XPath
+#### Scraping tables from multiple pages using XPath
 
 [Скрипт](https://github.com/natkaida/scripts/blob/main/scrape_tables.py)
 
