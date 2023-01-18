@@ -13,7 +13,7 @@
 
 ![Screenshot](https://user-images.githubusercontent.com/85797091/180638580-9e7275f5-a7f3-4590-8081-005e65c2e5af.png)
 
-### Генератор sitemap.xml
+### Генератор sitemap.xml {#xml_sitemap_generator}
 #### XML Sitemap generator in Python
 
 [Скрипт для генерации карты сайта]()
