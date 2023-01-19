@@ -1,8 +1,10 @@
 # Парсинг и скрапинг на Python
 ## Python scripts and snippets
-## Скрипты
+
+## Скрипты:
 1. [Скрапинг таблиц с XPath](#xpath_scraping)
 2. [Генератор карты сайта sitemap.xml](#sitemap_generator)
+
 
 ### <a name="xpath_scraping">Скрапинг таблиц с множества страниц с XPath</a>
 #### Scraping tables from multiple pages using XPath
@@ -16,4 +18,4 @@
 ### <a name="sitemap_generator">Генератор sitemap.xml</a> 
 #### XML Sitemap generator in Python
 
-[Скрипт для генерации карты сайта]()
+[Скрипт для генерации карты сайта](https://github.com/natkaida/scripts/blob/main/sitemap_generator.py)
