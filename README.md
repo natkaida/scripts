@@ -19,3 +19,8 @@
 #### XML Sitemap generator in Python
 
 [Скрипт для генерации карты сайта](https://github.com/natkaida/scripts/blob/main/sitemap_generator.py)
+
+Скрипт запрашивает Last modified, преобразует дату в формат W3C, собирает внутренние ссылки и генерирует карту сайта.
+
+![sitemap](https://user-images.githubusercontent.com/85797091/213441629-116f4fba-9f45-4a67-882f-d0d6a7db9d91.jpg)
+
