@@ -28,7 +28,7 @@
 ### <a name="ftp_server">Локальный FTP-сервер</a> 
 #### Скрипт для запуска ftp-сервера с помощью pyftpdlib
 
-[Скрипт для запуска локального ftp-servera](https://github.com/natkaida/scripts/blob/main/ftp_server.py)
+[Скрипт для запуска локального ftp-сервера](https://github.com/natkaida/scripts/blob/main/ftp_server.py)
 
 Если ваш компьютер под управлением Ubuntu 20.04 - 22.04 не хочет скачивать объемные файлы из shared папки Windows 7-11, и вы уже перепробовали все советы, а передача файла все равно упорно прерывается... просто запустите FTP-сервер на Windows компьютере.
 
