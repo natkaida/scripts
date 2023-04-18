@@ -34,4 +34,8 @@
 
 В настройках скрипта используется адрес роутера 192.168.1.101. Чтобы узнать адрес, выполните ipconfig в cmd.
 
-Строки import pyftpdlib.handlers и pyftpdlib.handlers.PassiveDTP.timeout = None отключают таймаут. Это нерекомендуемые настройки, но в особо тяжелых случаях помогают:).
+Строки ```import pyftpdlib.handlers``` и ```pyftpdlib.handlers.PassiveDTP.timeout = None``` отключают таймаут. Это нерекомендуемые настройки, но в особо тяжелых случаях помогают:).
+
+![screen](https://user-images.githubusercontent.com/85797091/232847541-a9e8160a-b6fb-4ea4-ad7d-bc8c0ac5663a.jpg)
+
+
